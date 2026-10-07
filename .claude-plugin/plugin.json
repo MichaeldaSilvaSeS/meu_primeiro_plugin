@@ -1,0 +1,6 @@
+{
+  "name": "meu_primeiro_plugin",
+  "version": "1.0.0",
+  "description": "Resume artigos científicos em notas individuais e gera uma Nota Master (MoC) com síntese da literatura.",
+  "author": { "name": "Michael" }
+}
