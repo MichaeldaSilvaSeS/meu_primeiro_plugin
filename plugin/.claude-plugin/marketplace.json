@@ -1,0 +1,11 @@
+{
+  "name": "meu-marketplace",
+  "owner": { "name": "Michael" },
+  "plugins": [
+    {
+      "name": "meu-primeiro-plugin",
+      "source": "./meu_primeiro_plugin",
+      "description": "Resume artigos científicos em notas individuais e gera uma Nota Master (MoC) com síntese da literatura."
+    }
+  ]
+}
